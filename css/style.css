@@ -6,27 +6,31 @@
 
 .container{
     display: flex;
-    background-color: #ADD8E7;
-    height: 100px;
     justify-content: center;
     align-items: center;
+}
+
+.header-style{
+    background-color: #ADD8E7;
+}
 
 .header-button-1{
     background-color: #DFA51C;
     width: 240px;
-    height: 40px;
+    height: 46px;
     padding: 10px 10px;
+    margin: 20px 0px;
 }
 
 .header-button-2{
     background-color: #DFA51C;
     width: 720px;
     padding: 10px 10px;
-    height: 40px;
+    height: 46px;
 }
 
 .border{
-    border: 1px dashed black;
+    border: 2px dashed black;
 }
 
 .text-align-sx{
@@ -39,4 +43,19 @@
 
 .text-align-center{
     text-align: center;
+}
+
+span{
+    font-size: 20px;
+}
+
+.first-style{
+    background-color: #00008B;
+}
+
+.fucsia-square{
+    width: 910px;
+    height: 400px;
+    background-color: #EE82ED;
+    margin: 50px 0px;
 }
