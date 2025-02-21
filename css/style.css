@@ -87,3 +87,34 @@ span{
 .margin{
     margin: 55px 0px;
 }
+
+.black-background{
+    background-color: #23272A;
+}
+
+.peach-square{
+    width: 30%;
+    height: 580px;
+    background-color: #F0817F;
+}
+
+.tiffany-square{
+    height: 580px;
+    background-color: #20B3AA;
+    border: 2px dashed white;
+    flex-grow: 1;
+}
+
+.flex-grow{
+    display: flex;
+    width: 70%;
+}
+
+hr{
+    color: white;
+}
+
+.second-margin{
+    margin-top: 10px;
+    margin-bottom: 45px;
+}
